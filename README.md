@@ -6,7 +6,7 @@
 [Project site](http://start.humanconnection.org/) |
 [Beta](http://beta.humanconnection.org/) |
 [Bugtracker](http://beta.humanconnection.org/tools/bugs_tracker) |
-[Donation](http://start.humanconnection.org/donate/) |
+[Donation](http://start.humanconnection.org/donate/)
 
 __Dear Contributors__,
 
