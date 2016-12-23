@@ -37,7 +37,7 @@ We need time to rework and documentate the source. You can help us, when you are
 
 Early stage prototype > [Beta](http://beta.humanconnection.org/)
 
-## Which current techniques are we use ?
+## Used web technology ?
 
 - PHP
 - MySQL
