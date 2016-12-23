@@ -32,8 +32,7 @@ To keep Human Connection growing and improving we need all help we can get. Whet
 # FAQ
 
 ## Why is the code still closed source?
-We need time to rework and documentate the source. You can help us, when you are backend developer or software architect. Contact us at [developer@humanconnection.org](mailto:developer@humanconnection.org) (WIP!) and you can get access to the source code.
-
+We need time to rework and documentate the source. You can help us, when you are backend developer or software architect. For access to source code contact us at [developer@humanconnection.org](mailto:developer@humanconnection.org) (WIP!).
 ## What we have worked so far?
 
 Early stage prototype > [Beta](http://beta.humanconnection.org/)
@@ -44,7 +43,7 @@ Early stage prototype > [Beta](http://beta.humanconnection.org/)
 - MySQL
 - jQuery
 
-## What are the next steps?
+## Next steps
 
 - Divide frontend from backend
 - Create Interface API
