@@ -17,23 +17,27 @@ Human Connection is an upcoming, new generation social network focused on local 
 
 __On board are:__
 
-- Dennis Fasche, Frontend Developer
-  - [Dennis.fasche@humanconnection.org](mailto:Dennis.fasche@humanconnection.org) (WIP!)
+- Dennis Hack, CEO
+  - [info@humanconnection.org](mailto:info@humanconnection.org)
 
+- Dennis Fasche, Frontend Developer
 - Andrey Buldakof, Backend Developer
-  - [Andrey.buldakof@humanconnection.org](mailto:andrey.buldakof@humanconnection.org)
+
+  -  [developer@humanconnection.org](mailto:developer@humanconnection.org)
   
 
 
 ## Contribute
 
-To keep Human Connection growing and improving we need all help we can get. Whether you can contribute [code], [ideas], [translations], [bug reports] or simply extend the community as a [helpful user]), your help is welcome!
+To keep Human Connection growing and improving we need all help we can get. Whether you can contribute [code], [ideas], [translations](http://beta.humanconnection.org/tools/translation), [bug reports](http://beta.humanconnection.org/tools/bugs_tracker) or simply make a [donation](http://start.humanconnection.org/donate/)
+, your help is welcome!
+[![Join the chat at https://gitter.im/HumanConnectionNetwork](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HumanConnectionNetwork/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # FAQ
 
 ## Why is the code still closed source?
 
-We need time to rework and documentate the source. You can help us, when you are backend developer or software architect. For access to source code contact us at [developer@humanconnection.org](mailto:developer@humanconnection.org) (WIP!).
+We need time to rework and documentate the source. You can help us, when you are backend developer or software architect. For access to source code contact us at [developer@humanconnection.org](mailto:developer@humanconnection.org).
 
 ## What we have worked so far?
 
