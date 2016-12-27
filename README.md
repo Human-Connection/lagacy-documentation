@@ -52,7 +52,7 @@ Early stage prototype > [Beta](http://beta.humanconnection.org/)
 - Frontend prototype in Vue.js
 - Communicaton service(Chat,Notification...)
 
-## Pre-Beta features functionality (updated: 27/12/16)
+## [Pre-Beta](http://beta.humanconnection.org/) features functionality (updated: 27/12/16)
 For further information please visit our [release notes] (http://beta.humanconnection.org/releases_note)
 ## User Account
 - [x] Create new Account
@@ -103,7 +103,7 @@ For further information please visit our [release notes] (http://beta.humanconne
 - [x] Search and filter
 
 
-## -
+##
 
 ### Chat
 - [x] Create new chatroom
