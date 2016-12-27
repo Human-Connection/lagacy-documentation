@@ -4,7 +4,7 @@
 ![Source code status](https://img.shields.io/badge/source-closed-red.svg)
 
 [Project site](http://start.humanconnection.org/) |
-[Beta](http://beta.humanconnection.org/) |
+[Pre-Beta](http://beta.humanconnection.org/) |
 [Bugtracker](http://beta.humanconnection.org/tools/bugs_tracker) |
 [Donation](http://start.humanconnection.org/donate/)
 
@@ -25,7 +25,7 @@ __On board are:__
   
 ## Contribute
 
-To keep Human Connection growing and improving we need all help we can get. Whether you can contribute [code], [ideas], [translations](http://beta.humanconnection.org/tools/translation), [bug reports](http://beta.humanconnection.org/tools/bugs_tracker) or simply make a [donation](http://start.humanconnection.org/donate/)
+To keep Human Connection growing and improving we need all help we can get. Whether you can contribute code, ideas, [translations](http://beta.humanconnection.org/tools/translation), [bug reports](http://beta.humanconnection.org/tools/bugs_tracker) or simply make a [donation](http://start.humanconnection.org/donate/)
 , your help is welcome!
 [![Join the chat at https://gitter.im/HumanConnectionNetwork](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HumanConnectionNetwork/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -44,9 +44,20 @@ Early stage prototype > [Pre-Beta](http://beta.humanconnection.org/)
 - MySQL
 - jQuery
 
-## Is Human Connection charitable organization?
+## Architecture idea
 
-Our work is officially recognized by the German tax institution as to be promoting international understanding and attitude as well as tolerance in all spheres of culture
+[![Architecture Preview](http://test2.human-connection.org/images/HC_network_architecture.png)]
+(http://test2.human-connection.org/images/HC_network_architecture.png)
+
+__Global API:__ API for communication between networks
+
+__Interface API:__ API for frontend with ajax/websocket
+
+__PHP class core:__ Base classes for all parts of the network
+
+__HC World:__ Admin tools and manangement for example mail templates
+
+__HC Javascript Object:__ JS Object to store all fronted data
 
 ## Next steps?
 
@@ -54,6 +65,11 @@ Our work is officially recognized by the German tax institution as to be promoti
 - Create Interface API
 - Frontend prototype in [Vue.js 2.0](https://vuejs.org/)
 - Communicaton service(Chat,Notification...)
+
+
+## Is Human Connection charitable organization?
+
+Our work is officially recognized by the German tax institution as to be promoting international understanding and attitude as well as tolerance in all spheres of culture
 
 # [Pre-Beta](http://beta.humanconnection.org/) features functionality (updated: 27/12/16)
 For further information please visit our [release notes] (http://beta.humanconnection.org/releases_note)
