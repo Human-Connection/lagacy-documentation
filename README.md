@@ -13,7 +13,7 @@ __Dear Contributors__,
 welcome and thank you for visiting the Human Connection Github Site. 
 We are a small team, but with a great idea to develop a network that will serve the people.
 
-Human Connection is an upcoming, new generation social network focused on local and global positive change. The collaborative platform is designed to promote the sharing of useful news, ideas, causes and values as well as smart know-how and experiences that can benefit everyone and meet mankind´s needs.
+Human Connection is an upcoming, new generation social network focused on local and global positive change. The collaborative non-profit platform is designed to promote the sharing of useful news, ideas, causes and values as well as smart know-how and experiences that can benefit everyone and meet mankind´s needs.
 
 __On board are:__
 
@@ -21,8 +21,8 @@ __On board are:__
   - [info@humanconnection.org](mailto:info@humanconnection.org)
 
 - Dennis Fasche, Frontend Developer
+  -  [developer@humanconnection.org](mailto:developer@humanconnection.org)
 - Andrey Buldakof, Backend Developer
-
   -  [developer@humanconnection.org](mailto:developer@humanconnection.org)
   
 
@@ -49,9 +49,13 @@ Early stage prototype > [Beta](http://beta.humanconnection.org/)
 - MySQL
 - jQuery
 
-## Next steps
+## Is HumanConnection charitable organization?
 
-- Divide frontend from backend
+Our work is officially recognized by the German tax institution as to be promoting international understanding and attitude as well as tolerance in all spheres of culture
+
+## Next steps?
+
+- Rework and documentate code
 - Create Interface API
 - Frontend prototype in Vue.js
 - Communicaton service(Chat,Notification...)
