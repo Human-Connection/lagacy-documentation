@@ -55,7 +55,7 @@ __Interface API:__ API for frontend with ajax/websocket
 
 __PHP class core:__ Base classes for all parts of the network
 
-__HC World:__ Admin tools and manangement for example mail templates
+__HC World:__ Admin tools and manangement (e.g. mail templates)
 
 __HC Javascript Object:__ JS Object to store all fronted data
 
