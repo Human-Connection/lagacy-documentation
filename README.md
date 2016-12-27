@@ -1,5 +1,5 @@
 [![HC Logo](http://test2.human-connection.org/images/hc_logo_with_subline.svg)](http://start.humanconnection.org/)
-# Human Connection - Open Source Social Network
+# Human Connection - The Social Knowledge and Action Network
 [![Join the chat at https://gitter.im/HumanConnectionNetwork](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HumanConnectionNetwork/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Source code status](https://img.shields.io/badge/source-closed-red.svg)
 
