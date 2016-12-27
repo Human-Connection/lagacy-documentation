@@ -53,7 +53,7 @@ Early stage prototype > [Beta](http://beta.humanconnection.org/)
 - Communicaton service(Chat,Notification...)
 
 ## Pre-Beta features functionality (updated: 27/12/16)
-
+For further information please visit our [release notes] (http://beta.humanconnection.org/releases_note)
 ## User Account
 - [x] Create new Account
 - [x] Delete Account
