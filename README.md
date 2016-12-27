@@ -1,5 +1,5 @@
 [![HC Logo](http://test2.human-connection.org/images/hc_logo_with_subline.svg)](http://start.humanconnection.org/)
-# Human Connection - The Social Knowledge and Action Network
+# Human Connection - The Social Knowledge- and Action Network
 [![Join the chat at https://gitter.im/HumanConnectionNetwork](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HumanConnectionNetwork/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Source code status](https://img.shields.io/badge/source-closed-red.svg)
 
@@ -21,7 +21,7 @@ __On board are:__
   - [info@humanconnection.org](mailto:info@humanconnection.org)
 
 - Dennis Fasche, Frontend Developer & Andrey Buldakof, Backend Developer
-  -  [developer@humanconnection.org](mailto:developer@humanconnection.org)
+  - [developer@humanconnection.org](mailto:developer@humanconnection.org)
   
 ## Contribute
 
@@ -37,15 +37,14 @@ We need time to rework and documentate the source. You can help us, when you are
 
 ## What we have worked so far?
 
-Early stage prototype > [Beta](http://beta.humanconnection.org/)
+Early stage prototype > [Pre-Beta](http://beta.humanconnection.org/)
 
-## Used web technology ?
-
+## Current used web technologies ?
 - PHP
 - MySQL
 - jQuery
 
-## Is HumanConnection charitable organization?
+## Is Human Connection charitable organization?
 
 Our work is officially recognized by the German tax institution as to be promoting international understanding and attitude as well as tolerance in all spheres of culture
 
@@ -53,10 +52,10 @@ Our work is officially recognized by the German tax institution as to be promoti
 
 - Rework and documentate code
 - Create Interface API
-- Frontend prototype in Vue.js
+- Frontend prototype in [Vue.js 2.0](https://vuejs.org/)
 - Communicaton service(Chat,Notification...)
 
-## [Pre-Beta](http://beta.humanconnection.org/) features functionality (updated: 27/12/16)
+# [Pre-Beta](http://beta.humanconnection.org/) features functionality (updated: 27/12/16)
 For further information please visit our [release notes] (http://beta.humanconnection.org/releases_note)
 ## User Account
 - [x] Create new Account
@@ -105,9 +104,6 @@ For further information please visit our [release notes] (http://beta.humanconne
 - [x] Edit organization in the OrgaDatabase
 - [x] Confirm from moderator
 - [x] Search and filter
-
-
-##
 
 ### Chat
 - [x] Create new chatroom
