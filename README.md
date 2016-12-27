@@ -52,5 +52,80 @@ Early stage prototype > [Beta](http://beta.humanconnection.org/)
 - Frontend prototype in Vue.js
 - Communicaton service(Chat,Notification...)
 
+## Pre-Beta features functionality (updated: 27/12/16)
+
+## User Account
+- [x] Create new Account
+- [x] Delete Account
+- [x] Change Password
+- [x] Email Confirmation (optional)
+- [x] Change Language
+- [x] Upload Avatar
+- [x] Recover Password (confirmed)
+
+
+## Post Tools
+
+### Default Post
+- [x] Create new post
+- [x] Delete own Post
+- [x] Upload attachment
+- [x] Add Tags
+- [x] Choose language
+- [x] Change topic
+- [x] Rate post(emojis)
+- [x] Megaphone
+- [x] Create automatic preview from an URL
+- [x] Multiple asynchron file upload
+  - [x] Drag&Drop
+  - [x] Preview for audio file
+  - [ ] Preview for PDF document
+  - [x] Mark explicit content
+  - [x] Choose picture title
+- [ ] More Info
+- [ ] Take Action
+
+
+
+### Pro Contra Post
+- [x] Create new Pro&Contra Discussion
+- [x] Delete your own Pro&Contra Discussion
+- [x] Add new Argument with attachment
+- [x] Delete argument when 0 UpVote
+  - [x] Author from the discussion
+  - [x] Author from the argument
+- [x] UpVote an argument
+
+### Organization
+- [x] Add new organization to OrgaDatabase(need confirmation)
+- [x] Edit organization in the OrgaDatabase
+- [x] Confirm from moderator
+- [x] Search and filter
+
+
+## -
+
+### Chat
+- [x] Create new chatroom
+- [x] Notification for new chat message
+- [x] Notification for new private message
+- [x] Upload attachment to chatroom
+- [ ] Search chatrooms
+
+### Dashboard
+- [x] List all posts
+- [x] Change column
+- [x] Cockpit preview
+- [x] Open single post in modal window
+
+
+### Profile
+- [x] Send private message
+- [ ] List user posts 
+
+
+### Translation tool
+- [x] Translate string in multiple languages
+
 More info here
 <https://github.com/HumanConnection/documentation/wiki>
