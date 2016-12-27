@@ -20,13 +20,9 @@ __On board are:__
 - Dennis Hack, CEO
   - [info@humanconnection.org](mailto:info@humanconnection.org)
 
-- Dennis Fasche, Frontend Developer
-  -  [developer@humanconnection.org](mailto:developer@humanconnection.org)
-- Andrey Buldakof, Backend Developer
+- Dennis Fasche, Frontend Developer & Andrey Buldakof, Backend Developer
   -  [developer@humanconnection.org](mailto:developer@humanconnection.org)
   
-
-
 ## Contribute
 
 To keep Human Connection growing and improving we need all help we can get. Whether you can contribute [code], [ideas], [translations](http://beta.humanconnection.org/tools/translation), [bug reports](http://beta.humanconnection.org/tools/bugs_tracker) or simply make a [donation](http://start.humanconnection.org/donate/)
