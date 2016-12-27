@@ -142,6 +142,3 @@ For further information please visit our [release notes] (http://beta.humanconne
 
 ### Translation tool
 - [x] Translate string in multiple languages
-
-More info here
-<https://github.com/HumanConnection/documentation/wiki>
